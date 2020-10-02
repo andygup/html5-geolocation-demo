@@ -3,7 +3,7 @@ html5-geolocation-tool-js
 
 **IMPORTANT NOTICE: This repo has been deprecated and moved to a new location effective March 9, 2015:** Please use the new master: https://github.com/Esri/html5-geolocation-tool-js.
 
-Use this fun jQuery Mobile web app to test HTML5 geolocation on different devices. It lets you track your location as well as play with the different HTML5 Geolocation properties. This can be used on a desktop browser, mobile browser or within a PhoneGap project.
+Use this fun jQuery Mobile web app to test HTML5 geolocation on different devices. It will let you track your location as well as play with the different HTML5 Geolocation properties. This can be used on a desktop browser, mobile browser or within a PhoneGap project.
 
 Main View:
 
